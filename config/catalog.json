@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "entries": [
+    {"id":"evening-cut","title":"Evening cut","kind":"video","collection":"Personal films","description":"A local video collection for a quiet evening.","file":"video/evening-cut.mp4"},
+    {"id":"listening-room","title":"Listening room","kind":"audio","collection":"Music","description":"A recording from your own music library.","file":"audio/listening-room.mp3"},
+    {"id":"coastline","title":"Coastline","kind":"image","collection":"Photographs","description":"A photograph from your personal collection.","file":"photos/coastline.jpg"}
+  ]
+}

@@ -18,3 +18,8 @@ firmware/ir-bridge/sdkconfig.old
 platform/webos/vendor/*.js
 media/*
 !media/README.md
+*.log
+.cache/
+coverage/
+.coverage
+.pytest_cache/

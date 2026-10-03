@@ -1,0 +1,14 @@
+{
+  "id":"io.mn1701.lumen.tv",
+  "version":"1.0.0",
+  "vendor":"Minh Nguyen",
+  "type":"web",
+  "main":"index.html",
+  "title":"Lumen TV",
+  "appDescription":"A quiet local media and app companion",
+  "icon":"icon.png",
+  "largeIcon":"large-icon.png",
+  "resolution":"1920x1080",
+  "disableBackHistoryAPI":true,
+  "handlesRelaunch":false
+}

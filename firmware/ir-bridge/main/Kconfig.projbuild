@@ -1,0 +1,14 @@
+menu "Lumen IR bridge"
+config LUMEN_IR_GPIO
+    int "IR transistor control GPIO"
+    range 0 33
+    default 4
+config LUMEN_UART_TX
+    int "UART1 TX GPIO"
+    range 0 33
+    default 17
+config LUMEN_UART_RX
+    int "UART1 RX GPIO"
+    range 0 39
+    default 16
+endmenu
